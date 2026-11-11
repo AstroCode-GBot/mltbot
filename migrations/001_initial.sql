@@ -1,0 +1,3 @@
+-- The application creates the initial schema automatically on startup.
+-- Keep this file as the versioned migration reference.
+-- For production upgrades, add forward-only SQL migrations here.
